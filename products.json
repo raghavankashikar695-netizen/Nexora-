@@ -1,0 +1,250 @@
+{
+ "products": [
+  {
+   "id": 1,
+   "b": "iPhone",
+   "t": "Premium",
+   "n": "iPhone Premium Case",
+   "p": 899,
+   "cols": [
+    "Black",
+    "Silver"
+   ],
+   "m": [
+    "iPhone 15 Pro",
+    "iPhone 14",
+    "iPhone 13"
+   ],
+   "d": "Sample product. Slim, firm-grip case with a metallic-look finish and raised edges that protect the screen and camera.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 2,
+   "b": "iPhone",
+   "t": "Transparent",
+   "n": "iPhone Transparent Case",
+   "p": 499,
+   "cols": [
+    "Clear"
+   ],
+   "m": [
+    "iPhone 15",
+    "iPhone 15 Pro",
+    "iPhone 14",
+    "iPhone 13"
+   ],
+   "d": "Sample product. Crystal-clear case that shows off your phone’s own colour while adding corner protection.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 3,
+   "b": "iPhone",
+   "t": "Silicone",
+   "n": "iPhone Silicone Case",
+   "p": 599,
+   "cols": [
+    "Black",
+    "Light Grey",
+    "White"
+   ],
+   "m": [
+    "iPhone 15 Pro",
+    "iPhone 14",
+    "iPhone 13"
+   ],
+   "d": "Sample product. Soft-touch silicone with a smooth matte feel and a cushioned inner lining.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 4,
+   "b": "Samsung",
+   "t": "Premium",
+   "n": "Samsung Premium Case",
+   "p": 799,
+   "cols": [
+    "Black",
+    "Silver"
+   ],
+   "m": [
+    "Galaxy S24",
+    "Galaxy S23",
+    "Galaxy A55",
+    "Galaxy M34"
+   ],
+   "d": "Sample product. Slim, firm-grip case with a metallic-look finish and raised edges that protect the screen and camera.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 5,
+   "b": "Samsung",
+   "t": "Transparent",
+   "n": "Samsung Transparent Case",
+   "p": 399,
+   "cols": [
+    "Clear"
+   ],
+   "m": [
+    "Galaxy S23",
+    "Galaxy A55",
+    "Galaxy M34"
+   ],
+   "d": "Sample product. Crystal-clear case that shows off your phone’s own colour while adding corner protection.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 6,
+   "b": "Samsung",
+   "t": "Silicone",
+   "n": "Samsung Silicone Case",
+   "p": 549,
+   "cols": [
+    "Black",
+    "Light Grey",
+    "White"
+   ],
+   "m": [
+    "Galaxy S24",
+    "Galaxy S23",
+    "Galaxy A55",
+    "Galaxy M34"
+   ],
+   "d": "Sample product. Soft-touch silicone with a smooth matte feel and a cushioned inner lining.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 7,
+   "b": "OnePlus",
+   "t": "Premium",
+   "n": "OnePlus Premium Case",
+   "p": 749,
+   "cols": [
+    "Black",
+    "Silver"
+   ],
+   "m": [
+    "OnePlus 11",
+    "Nord CE 3",
+    "Nord 3"
+   ],
+   "d": "Sample product. Slim, firm-grip case with a metallic-look finish and raised edges that protect the screen and camera.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 8,
+   "b": "OnePlus",
+   "t": "Silicone",
+   "n": "OnePlus Silicone Case",
+   "p": 499,
+   "cols": [
+    "Black",
+    "Light Grey",
+    "White"
+   ],
+   "m": [
+    "OnePlus 12",
+    "OnePlus 11",
+    "Nord CE 3",
+    "Nord 3"
+   ],
+   "d": "Sample product. Soft-touch silicone with a smooth matte feel and a cushioned inner lining.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 9,
+   "b": "Vivo",
+   "t": "Transparent",
+   "n": "Vivo Transparent Case",
+   "p": 349,
+   "cols": [
+    "Clear"
+   ],
+   "m": [
+    "Vivo V29",
+    "Vivo T3",
+    "Vivo Y200"
+   ],
+   "d": "Sample product. Crystal-clear case that shows off your phone’s own colour while adding corner protection.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 10,
+   "b": "Oppo",
+   "t": "Premium",
+   "n": "Oppo Premium Case",
+   "p": 699,
+   "cols": [
+    "Black",
+    "Silver"
+   ],
+   "m": [
+    "Oppo Reno 11",
+    "Oppo F25",
+    "Oppo A78",
+    "Oppo K12"
+   ],
+   "d": "Sample product. Slim, firm-grip case with a metallic-look finish and raised edges that protect the screen and camera.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 11,
+   "b": "Redmi",
+   "t": "Silicone",
+   "n": "Redmi Silicone Case",
+   "p": 399,
+   "cols": [
+    "Black",
+    "Light Grey",
+    "White"
+   ],
+   "m": [
+    "Redmi 13C",
+    "Redmi Note 12",
+    "Redmi A3"
+   ],
+   "d": "Sample product. Soft-touch silicone with a smooth matte feel and a cushioned inner lining.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  },
+  {
+   "id": 12,
+   "b": "Redmi",
+   "t": "Transparent",
+   "n": "Redmi Transparent Case",
+   "p": 299,
+   "cols": [
+    "Clear"
+   ],
+   "m": [
+    "Redmi Note 13",
+    "Redmi 13C",
+    "Redmi Note 12",
+    "Redmi A3"
+   ],
+   "d": "Sample product. Crystal-clear case that shows off your phone’s own colour while adding corner protection.",
+   "o": 0,
+   "s": "",
+   "x": 1
+  }
+ ]
+}
